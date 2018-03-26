@@ -1,4 +1,4 @@
-Callback function adalah function yang dibuat dan dieksekusi didalam 
+**Callback function** adalah function yang dibuat dan dieksekusi didalam 
 function lain (function yang memanggilnya).
 Penjelasan dari script callback.js adalah
 kita akan membuat 1 function untuk memproses inputan (first name dan last 
