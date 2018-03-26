@@ -9,6 +9,11 @@ antrian, maksusnya asynchrounous hanya akan mengambil data yang
 dibutuhkan saja tetapi tetap melakukan proses yang lainnya dengan waktu 
 yang cepat dibanding pengambilan data dalam synchronous.
 
+Link untuk direktori asynch_await : https://github.com/Apriliana2424/pbd.asynch/tree/master/asynch_await
+
+Link untuk direktori asynch_await :
+
+Link untuk direktori asynch_await :
 
 Dikerjakan oleh *Apriliana Puspitasari*
 **copyright @2018 Apriliana_Puspitasari**
