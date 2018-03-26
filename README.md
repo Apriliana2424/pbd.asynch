@@ -11,7 +11,7 @@ yang cepat dibanding pengambilan data dalam synchronous.
 
 Link untuk direktori asynch_await : https://github.com/Apriliana2424/pbd.asynch/tree/master/asynch_await
 
-Link untuk direktori asynch_await :
+Link untuk direktori callback :https://github.com/Apriliana2424/pbd.asynch/tree/master/callback
 
 Link untuk direktori asynch_await :
 
