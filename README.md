@@ -1,4 +1,4 @@
-*Asynchronous* ( Online tidak langsung ) adalah komunikasi secara tertunda, 
+***Asynchronous*** ( Online tidak langsung ) adalah komunikasi secara tertunda, 
 dengan menggunakan media seperti e-mail, forum, dan membaca/menulis dokumen 
 online melalui World Wide Web.*Asynchronous* adalah Proses komunikasi data yang 
 tidak terikat dengan waktu tetap, proses transformasi data kecepatannya cukup 
@@ -13,7 +13,7 @@ Link untuk direktori asynch_await : https://github.com/Apriliana2424/pbd.asynch/
 
 Link untuk direktori callback :https://github.com/Apriliana2424/pbd.asynch/tree/master/callback
 
-Link untuk direktori asynch_await :
+Link untuk direktori promise : https://github.com/Apriliana2424/pbd.asynch/tree/master/promise
 
 Dikerjakan oleh *Apriliana Puspitasari*
 **copyright @2018 Apriliana_Puspitasari**
